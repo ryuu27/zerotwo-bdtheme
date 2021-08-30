@@ -1,6 +1,6 @@
 # zerotwo-bdtheme
 
-/* Based on DieMooPio's NDTV1 theme. */
+/* Based on DieMooPio's NDTv1 theme. */
 
 /* Credits to ClearVision for making the original theme. */
 
